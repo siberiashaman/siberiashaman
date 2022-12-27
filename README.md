@@ -17,7 +17,8 @@ I'm a web developer working in Krasnodar, Russia.
 
 
 
-### Connect with me::
+### Connect with me:
+[![Тут текст](img/telegram.svg)]([https://youtu.be/RHPYGwVQB2o](https://t.me/the_cybermania))
 <img src="img/telegram.svg" alt="telegram" style="height: 30px; width: 30px;">https://t.me/the_cybermania
 <img src="img/vk.svg" alt="vk" style="height: 30px; width: 30px;">https://vk.com/dshest
 
