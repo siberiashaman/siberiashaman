@@ -5,7 +5,7 @@ I'm a web developer working in Krasnodar, Russia.
 
 ### I’m currently learning:
 
-<img src="img/html5.svg" alt="html5" style="height: 50px; width: 50px;">&ensp;<img src="img/sass.svg" alt="sass" style="height: 50px; width: 50px;">&ensp;<img src="img/javascript.svg" alt="JavaScript" style="height: 50px; width: 50px;">&ensp;<img src="img/pyhon.svg" alt="pyhon" style="height: 50px; width: 50px;">
+<img src="img/html5.svg" alt="html5" style="height: 50px; width: 50px;">&ensp;<img src="img/sass.svg" alt="sass" style="height: 50px; width: 50px;">&ensp;<img src="img/javascript.svg" alt="JavaScript" style="height: 50px; width: 50px;">&ensp;<img src="img/python.svg" alt="python" style="height: 50px; width: 50px;">
 
 
 ### I’m currently working with:
@@ -18,7 +18,7 @@ I'm a web developer working in Krasnodar, Russia.
 
 
 ### Connect with me::
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
+[![Telegram](<img src="img/telegram.svg" alt="telegram" style="height: 50px; width: 50px;">)](https://t.me/the_cybermania)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/dshest)
 
 
