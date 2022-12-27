@@ -1,11 +1,11 @@
-### Hi there 👋
+### :wave: Hey! Nice to see you.
 
 <!--
-**siberiashaman/siberiashaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**siberiashaman/siberiashaman** I'm a web developer working in Krasnodar, Russia.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently learning JavaScript, React
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
