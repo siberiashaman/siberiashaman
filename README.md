@@ -18,9 +18,9 @@ I'm a web developer working in Krasnodar, Russia.
 
 
 ### Connect with me:
-[![Тут текст](img/telegram.svg style="height: 30px; width: 30px;")]([https://youtu.be/RHPYGwVQB2o](https://t.me/the_cybermania))
+
 <img src="img/telegram.svg" alt="telegram" style="height: 30px; width: 30px;">https://t.me/the_cybermania
 <img src="img/vk.svg" alt="vk" style="height: 30px; width: 30px;">https://vk.com/dshest
-[<img alt="alt_text" width="30px" src="img/vk.svg" />](https://www.google.com/)
+[<img alt="alt_text" width="30px" src="img/vk.svg" />](https://vk.com/dshest)
 
 
