@@ -19,7 +19,7 @@ I'm a web developer working in Krasnodar, Russia.
 
 ### Connect with me:
 
-[<img alt="Telegram" width="20px" src="img/telegram.svg" />](https://t.me/Siberiashaman)&ensp;[Telegram](https://t.me/Siberiashaman)&ensp;
-[<img alt="Vkontakte" width="20px" src="img/vk.svg" />](https://vk.com/dshest)&ensp;[Vkontakte](https://vk.com/dshest)
+[<img alt="Telegram" width="15px" src="img/telegram.svg" />](https://t.me/Siberiashaman)[Telegram](https://t.me/Siberiashaman)&ensp;
+[<img alt="Vkontakte" width="15px" src="img/vk.svg" />](https://vk.com/dshest)[Vkontakte](https://vk.com/dshest)
 
 
