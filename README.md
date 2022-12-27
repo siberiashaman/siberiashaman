@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siberiashaman)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
