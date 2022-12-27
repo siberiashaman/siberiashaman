@@ -1,7 +1,7 @@
 ### :wave: Hey! Nice to see you.
 ![GitHub Views](https://komarev.com/ghpvc/?username=siberiashaman&color=blue)
 
-I'm a web developer working in Krasnodar, Russia.
+<h3>I'm a web developer working in Krasnodar, Russia.</h3>
 
 ### I’m currently learning:
 
