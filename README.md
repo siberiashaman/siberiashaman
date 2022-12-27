@@ -10,7 +10,7 @@
 ### I’m currently working with:
 <img src="img/visualstudiocode.svg" alt="visualstudiocode" style="height: 50px; width: 50px;">&ensp;<img src="img/bootstrap.svg" alt="bootstrap" style="height: 50px; width: 50px;">&ensp;<img src="img/joomla.svg" alt="joomla" style="height: 50px; width: 50px;">&ensp;<img src="img/wordpress.svg" alt="wordpress" style="height: 50px; width: 50px;">&ensp;<img src="img/django.svg" alt="django" style="height: 50px; width: 50px;">&ensp;<img src="img/pycharm.svg" alt="pycharm" style="height: 50px; width: 50px;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siberiashaman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siberiashaman&hide=JupyterNotebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
