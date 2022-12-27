@@ -5,7 +5,7 @@ I'm a web developer working in Krasnodar, Russia.
 
 ### I’m currently learning:
 
-<img src="img/html5.svg" alt="html5" style="height: 50px; width: 50px; padding-right: 5px;"><img src="img/sass.svg" alt="html5" style="height: 50px; width: 50px; padding-right: 5px;"><img src="img/javascript.svg" alt="html5" style="height: 50px; width: 50px; padding-right: 5px;">
+<img src="img/html5.svg" alt="html5" style="height: 50px; width: 50px; padding-right: 5px;"><img src="img/sass.svg" alt="html5" style="height: 50px; width: 50px; padding-right: 50px;"><img src="img/javascript.svg" alt="html5" style="height: 50px; width: 50px; padding-right: 5px;">
 
 
 ### I’m currently working with:
