@@ -8,7 +8,7 @@ I'm a web developer working in Krasnodar, Russia.
 <img
   src="img/html5.svg"
   alt="html5"
-  style="display: inline-block; margin: 0 auto; max-height: 50px; max-width: 50px;">
+  style="display: inline-block; margin: 0 auto; max-height: 5px; max-width: 5px;">
 
 
 
