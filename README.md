@@ -9,7 +9,10 @@ I'm a web developer working in Krasnodar, Russia.
   src="img/html5.svg"
   alt="html5"
   style="height: 50px; width: 50px; ">
-
+<img
+  src="img/sass.svg"
+  alt="html5"
+  style="height: 50px; width: 50px; ">
 
 
 ### I’m currently working with:
