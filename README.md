@@ -4,15 +4,13 @@
 I'm a web developer working in Krasnodar, Russia.
 
 ### I’m currently learning:
-<img align="center" src="[./html5.svg]" height="100" />
 
 <img
-  src="./html5.svg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  src="img/html5.svg"
+  alt="html5"
+  style="display: inline-block; margin: 0 auto; max-height: 50px; max-width: 50px;">
 
-![html5](./html5.svg)
+
 
 ### I’m currently working with:
 
