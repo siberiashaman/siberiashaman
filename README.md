@@ -6,7 +6,7 @@ I'm a web developer working in Krasnodar, Russia.
 ### I’m currently learning:
 <img align="center" src="[./html5.svg]" height="100" />
 
-![html5](./html5.svg)
+![html5](./html5.svg  height="100")
 
 ### I’m currently working with:
 
