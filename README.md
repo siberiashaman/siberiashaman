@@ -1,5 +1,5 @@
 ### :wave: Hey! Nice to see you.
-[![GitHub Views](https://komarev.com/ghpvc/?username=siberiashaman&color=FAC151)][1]
+![GitHub Views](https://komarev.com/ghpvc/?username=siberiashaman&color=FAC151)[1]
 
 I'm a web developer working in Krasnodar, Russia.
 
