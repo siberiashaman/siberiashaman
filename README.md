@@ -6,7 +6,7 @@ I'm a web developer working in Krasnodar, Russia.
 ### I’m currently learning:
 
 <img
-  src="img/html5.svg"
+  src="img/html4.svg"
   alt="html5"
   style="height: 50px; width: 50px; ">
 
