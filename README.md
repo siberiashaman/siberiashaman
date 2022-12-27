@@ -5,10 +5,7 @@ I'm a web developer working in Krasnodar, Russia.
 
 ### I’m currently learning:
 
-![#f03c15](<img
-  src="img/html5.svg"
-  alt="html5"
-  style="height: 50px; width: 50px; ">)
+<img src="img/html5.svg" alt="html5" style="height: 50px; width: 50px;">
 <img src="img/sass.svg" alt="html5" style="height: 50px; width: 50px;">
 
 
