@@ -4,14 +4,14 @@
 I'm a web developer working in Krasnodar, Russia.
 
 ### I’m currently learning:
+<img align="center" src="[image_url](https://simpleicons.org/icons/html5.svg)" height="100" />
 
-https://simpleicons.org/icons/html5.svg
 ### I’m currently working with:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siberiashaman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=siberiashaman)
+
 
 
 
