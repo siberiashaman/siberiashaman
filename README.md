@@ -4,7 +4,7 @@
 I'm a web developer working in Krasnodar, Russia.
 
 ### I’m currently learning:
-<img align="center" src="[https://simpleicons.org/icons/html5.svg]" height="100" />
+<img align="center" src="[./html5.svg]" height="100" />
 
 ![html5](./html5.svg)
 
